@@ -1,4 +1,4 @@
 VLCKit-podspecs
 ===============
 
-This repository contains the podspec files for VLCKit 
+This repository contains the podspec files for MobileVLCKit 
